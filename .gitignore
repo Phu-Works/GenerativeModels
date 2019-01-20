@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 dsprites-dataset/
 .DS_Store
+
+save/
+tmp/
